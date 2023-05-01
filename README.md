@@ -2,7 +2,7 @@
 A simple flickering candle for the Texas Instruments F2013 MCU mini development USB stick.                       
 It uses the onboard LED so there's no extra hardware needed.                   
 
-To compile the program, use the IAR Embedded Workbench IDE, or Code Composer Studio IDE.                    
+To compile the program, use Code Composer Studio IDE and open the "Candle" folder/project. (Or even use IAR Embedded Workbench IDE, if you don't mind making your own project).              
 
 https://www.farnell.com/datasheets/866769.pdf                    
 https://www.ti.com/lit/ug/slau176e/slau176e.pdf?ts=1682920938267                       
