@@ -6,4 +6,4 @@ To compile the program, use the IAR Embedded Workbench IDE, or Code Composer Stu
 
 https://www.farnell.com/datasheets/866769.pdf
 
-![image](https://user-images.githubusercontent.com/1586332/235414299-dbe03baa-529a-4150-9754-de850dfaa1da.png)
+![image](https://user-images.githubusercontent.com/1586332/235414904-e08ca4af-ba57-4811-94f3-0d694dac6ce2.png)
