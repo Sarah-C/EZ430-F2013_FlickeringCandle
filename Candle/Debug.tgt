@@ -1,0 +1,10 @@
+set target-db c:\Program Files\Texas Instruments\CC Essentials 2.0\tools\targets\targetdb\USB_MSP430.xml
+set target-key :MSP430
+set target MSP430F2013
+set erase-memory all
+set interface 1
+set vcc 3000
+set use-swbp 1
+set verify-download 0
+set hw-cycles 0
+set cio 0
