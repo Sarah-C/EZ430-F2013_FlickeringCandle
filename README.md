@@ -1,4 +1,4 @@
-# EZ430-F2013 : FlickeringCandle
+# EZ430-F2013 : Flickering Candle
 A simple flickering candle for the Texas Instruments F2013 MCU.
 
 https://www.farnell.com/datasheets/866769.pdf
