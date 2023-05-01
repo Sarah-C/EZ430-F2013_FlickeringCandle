@@ -1,5 +1,8 @@
 # EZ430-F2013 : Flickering Candle
-A simple flickering candle for the Texas Instruments F2013 MCU.
+A simple flickering candle for the Texas Instruments F2013 MCU mini development USB stick.
+It uses the onboard LED so there's no extra hardware needed.
+
+To compile the program, use the IAR Embedded Workbench IDE, or Code Composer Studio IDE.
 
 https://www.farnell.com/datasheets/866769.pdf
 
